@@ -1,4 +1,4 @@
 # app-dev
 My first repository
 <h1>My favorite series is Family Guy</h1>
-![Peter Griffin]("C:\Users\RYZEN5\Downloads\MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_.jpg")
+![Peter Griffin](https://user-images.githubusercontent.com/102933602/206899563-bcb0c831-cce2-478c-84c1-62610eb735e7.jpg)
